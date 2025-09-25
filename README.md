@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @sinchana673
-- 👀 I’m interested in ... travelling, reading books
-- 🌱 I’m currently learning ... B.E. CSE and I am passionate about technology and programming languages like C, Java and python (basics), html, css
-- 💞️ I’m looking to collaborate on ...good reputed organization 
+# 👋 Hi, I’m Sinchana R  
+
+- 🌍 From Bangalore  
+- 🎓 Completed BE in Computer Science and Engineering (CGPA: 8.99) from Rajarajeswari College of Engineering  
+- 💼 Currently working as a Data Engineer  
+- 🛠️ Skilled in C, Java(Basics), Python, HTML, CSS  
+- 📊 Data Engineering skills: SQL, ETL pipelines, Delta Lake, Databricks  
+- 👀 Interested in travelling and reading books  
+- 🤝 Looking to collaborate with reputed organizations and contribute to impactful projects  
+
 
 <!---
 sinchana673/sinchana673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
